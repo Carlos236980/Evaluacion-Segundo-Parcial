@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chispa",
+    "tipo": "Perro",
+    "servicio": "Vacunación",
+    "fecha": "2026-09-15",
+    "hora": "09:00",
+    "costo": 450,
+    "caso": "Se registró vacunación y revisión general; seguimiento preventivo.",
+    "foto": "caso1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Criko",
+    "tipo": "Perro",
+    "servicio": "Consulta general",
+    "fecha": "2026-09-16",
+    "hora": "10:00",
+    "costo": 350,
+    "caso": "Consulta por cojera leve después de jugar; seguimiento de movilidad.",
+    "foto": "caso2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Gallo",
+    "tipo": "Gato",
+    "servicio": "Consulta digestiva",
+    "fecha": "2026-09-17",
+    "hora": "11:00",
+    "costo": 400,
+    "caso": "Consulta por pérdida de apetito; se registró seguimiento digestivo.",
+    "foto": "caso3.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Popis",
+    "tipo": "Perro",
+    "servicio": "Revisión dermatológica",
+    "fecha": "2026-09-18",
+    "hora": "12:00",
+    "costo": 500,
+    "caso": "Revisión por irritación de piel; seguimiento dermatológico.",
+    "foto": "caso4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Lacra",
+    "tipo": "Perro",
+    "servicio": "Desparasitación",
+    "fecha": "2026-09-19",
+    "hora": "13:00",
+    "costo": 250,
+    "caso": "Visita preventiva para desparasitación y control de peso.",
+    "foto": "caso5.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Menso",
+    "tipo": "Gato",
+    "servicio": "Consulta general",
+    "fecha": "2026-09-20",
+    "hora": "14:00",
+    "costo": 350,
+    "caso": "Consulta por estornudos frecuentes; seguimiento de síntomas.",
+    "foto": "caso6.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Cuate",
+    "tipo": "Perro",
+    "servicio": "Revisión de oído",
+    "fecha": "2026-09-21",
+    "hora": "15:00",
+    "costo": 400,
+    "caso": "Revisión por molestias en un oído; próxima evaluación de control.",
+    "foto": "caso7.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Satan",
+    "tipo": "Gato",
+    "servicio": "Primera revisión",
+    "fecha": "2026-09-22",
+    "hora": "16:00",
+    "costo": 300,
+    "caso": "Primera consulta del gatito y apertura de expediente.",
+    "foto": "caso8.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Papi",
+    "tipo": "Perro",
+    "servicio": "Limpieza dental",
+    "fecha": "2026-09-23",
+    "hora": "09:00",
+    "costo": 850,
+    "caso": "Revisión de higiene bucal y limpieza dental.",
+    "foto": "caso9.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Enchilada",
+    "tipo": "Perro",
+    "servicio": "Revisión de piel",
+    "fecha": "2026-09-24",
+    "hora": "10:00",
+    "costo": 450,
+    "caso": "Consulta por comezón y revisión del pelaje.",
+    "foto": "caso10.png"
+  }
+]
